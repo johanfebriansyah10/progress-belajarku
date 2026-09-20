@@ -9,3 +9,10 @@ Catatan Harian tentang pengembangan skil
 ## **19 September 2026**<br>
 - Belajar Menggunakan HTML Semantic
 - Belajar Memahami Struktur HTML yang baik
+
+## **20 September 2026**
+- Belajar Bahasa Inggris
+- Belajar Hiragana baru hapal 12 Huruf aja sih
+- Belajar Membuat branch baru
+- Belajar Pull Request dan Merge
+- Belajar Mengatasi Conflict di github
