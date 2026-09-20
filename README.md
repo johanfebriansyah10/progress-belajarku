@@ -16,4 +16,3 @@ Catatan Harian tentang pengembangan skil
 - Belajar Membuat branch baru
 - Belajar Pull Request dan Merge
 - Belajar Mengatasi Conflict di github
-- Belajar HTML Semantic agar setiap element dikenali oleh web
