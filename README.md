@@ -24,3 +24,9 @@ Catatan Harian tentang pengembangan skil
 - Belajar Membuat portofolio HTML Only
 - Belajar Design UI / UX Menggunakan auto layout
 - Belajar Menulis hiragana
+
+## **22 September**
+- Lanjut Belajar Bahasa Inggris
+- Lanjut Belajar Bahasa Jepang
+- Membuat Project Menggunakan HTML + CSS
+- Lanjut Belajar Figma
