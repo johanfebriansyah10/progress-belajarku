@@ -30,3 +30,9 @@ Catatan Harian tentang pengembangan skil
 - Lanjut Belajar Bahasa Jepang
 - Membuat Project Menggunakan HTML + CSS
 - Lanjut Belajar Figma
+
+# **23 September** 
+- Lanjut Belajar Bahasa Inggris
+- Lanjut Belajar Bahasa Jepang
+- Lanjut Project HTML + CSS
+- Belajar membuat user flow di figma
