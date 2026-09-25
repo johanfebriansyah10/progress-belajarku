@@ -31,7 +31,7 @@ Catatan Harian tentang pengembangan skil
 - Membuat Project Menggunakan HTML + CSS
 - Lanjut Belajar Figma
 
-# **23 September** 
+## **23 September** 
 - Lanjut Belajar Bahasa Inggris
 - Lanjut Belajar Bahasa Jepang
 - Lanjut Project HTML + CSS
@@ -43,3 +43,10 @@ Catatan Harian tentang pengembangan skil
 - Belajar CSS
 - Belajar HTML
 - Lanjut Belajar Git & GitHub
+
+## **25 September**
+- Belajar Fork
+- Belajar Figma
+- Belajar CSS
+- Belajar Bahasa Inggris
+- Belajar Bahasa Jepang
