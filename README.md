@@ -51,4 +51,7 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa Jepang
 
 ## **26 September**
-- Latihan Fork 
+- Latihan Fork
+
+## **27 September**
+- Belajar Revert dan coba mempraktikannya
