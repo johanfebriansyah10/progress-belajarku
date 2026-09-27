@@ -53,5 +53,5 @@ Catatan Harian tentang pengembangan skil
 ## **26 September**
 - Latihan Fork
 
-## **271 September**
+## **27 September**
 - Belajar Revert dan coba mempraktikannya
