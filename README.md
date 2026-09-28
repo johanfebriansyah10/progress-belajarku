@@ -64,7 +64,7 @@ Catatan Harian tentang pengembangan skil
 - Belaajar CSS
 - Belajar Figma
 
-# **29 September**
+## **29 September**
 - Latihan Squash dan merger
 - Latihan review code
 - Belajar Bahasa Inggris
