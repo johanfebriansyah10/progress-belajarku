@@ -62,3 +62,4 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
 - Belaajar CSS
+- Belajar Figma
