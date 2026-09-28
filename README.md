@@ -57,3 +57,8 @@ Catatan Harian tentang pengembangan skil
 - Belajar Revert dan coba mempraktikannya
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
+
+## **28 September**
+- Belajar Bahasa Inggris
+- Belajar Bahasa Jepang
+- Belaajar CSS
