@@ -69,4 +69,4 @@ Catatan Harian tentang pengembangan skil
 - Latihan review code
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
-- Belajar Figma
+-  Belajar Figma
