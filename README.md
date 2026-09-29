@@ -63,4 +63,11 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa Jepang
 - Belaajar CSS
 - Belajar Figma
-- Belajar API
+
+## **29 September**
+- Latihan Squash dan merger
+- Latihan review code
+- Belajar Bahasa Inggris
+- Belajar Bahasa Jepang
+-  Belajar Figma
+-  Belajar API
