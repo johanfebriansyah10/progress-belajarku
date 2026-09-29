@@ -17,7 +17,7 @@ Catatan Harian tentang pengembangan skil
 - Belajar Pull Request dan Merge
 - Belajar Mengatasi Conflict di github
 - Belajar Semantic HTML untuk memberi tahu browser isi kontent dari element yang digunakan
-- ## **21 September 2026**
+## **21 September 2026**
 - Lanjut Belajar Bahasa inggris
 - Belajar CSS
 - Belajar Membuat portofolio HTML Only
@@ -69,3 +69,4 @@ Catatan Harian tentang pengembangan skil
 - Latihan review code
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
+-  Belajar Figma
