@@ -70,3 +70,10 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
 -  Belajar Figma
+
+## **30 September**
+- Belajar Code review
+- Belajar comment Pull request
+- Belajar Urutan menulis hiragana
+- Belajar RESTfull API
+- Belajar HTTP
