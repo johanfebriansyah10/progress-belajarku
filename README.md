@@ -77,3 +77,9 @@ Catatan Harian tentang pengembangan skil
 - Belajar Urutan menulis hiragana
 - Belajar RESTfull API
 - Belajar HTTP
+
+## **1 Oktober**
+- Belajar Pemrograman dasar
+- Lanjut belajar CSS
+- Lanjut design figma
+- Belajar menulis hiragana berdasarkan urutan
