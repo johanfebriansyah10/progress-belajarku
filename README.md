@@ -70,3 +70,22 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
 -  Belajar Figma
+
+## **30 September**
+- Belajar Code review
+- Belajar comment Pull request
+- Belajar Urutan menulis hiragana
+- Belajar RESTfull API
+- Belajar HTTP
+
+## **1 Oktober**
+- Belajar Pemrograman dasar
+- Lanjut belajar CSS
+- Lanjut design figma
+- Belajar menulis hiragana berdasarkan urutan
+
+## **2 Oktober**
+- Membuat design website portofolio
+- Belajar Bahasa Inggris
+- Belajar Bahasa Jepang
+- Belajar Figma
