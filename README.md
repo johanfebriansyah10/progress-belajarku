@@ -83,3 +83,9 @@ Catatan Harian tentang pengembangan skil
 - Lanjut belajar CSS
 - Lanjut design figma
 - Belajar menulis hiragana berdasarkan urutan
+
+## **2 Oktober**
+- Membuat design website portofolio
+- Belajar Bahasa Inggris
+- Belajar Bahasa Jepang
+- Belajar Figma
