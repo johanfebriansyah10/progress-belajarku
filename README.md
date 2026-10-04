@@ -89,3 +89,8 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa Inggris
 - Belajar Bahasa Jepang
 - Belajar Figma
+
+## **3 Oktober**
+- Belajar Bahasa inggris
+- Belajar Bahasa Jepang
+- Latihan membuat navbar
