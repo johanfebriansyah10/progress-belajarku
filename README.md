@@ -94,3 +94,12 @@ Catatan Harian tentang pengembangan skil
 - Belajar Bahasa inggris
 - Belajar Bahasa Jepang
 - Latihan membuat navbar
+
+## **4 Oktober**
+- Latihan CSS
+- Latihan Hiragana
+- Latihan Bahasa inggris
+
+## **5 Oktober**
+- Memulai membuat portofolio
+- Latihan Hiragana sampe 100%
