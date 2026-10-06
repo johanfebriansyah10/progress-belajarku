@@ -103,3 +103,7 @@ Catatan Harian tentang pengembangan skil
 ## **5 Oktober**
 - Memulai membuat portofolio
 - Latihan Hiragana sampe 100%
+
+## **6 Oktober**
+- Praktik Tenses, Present, Past, Future
+- Praktik responsive CSS
