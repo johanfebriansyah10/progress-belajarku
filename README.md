@@ -111,3 +111,7 @@ Catatan Harian tentang pengembangan skil
 ## **7 Oktober**
 - Latihan speaking bahasa jepang
 - Latihan Speaking Bahasa Inggris
+
+## **8 Oktober**
+- Lanjut mengerjakan portofolio
+- Latihan CSS advance
