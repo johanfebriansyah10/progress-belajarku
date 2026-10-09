@@ -107,3 +107,7 @@ Catatan Harian tentang pengembangan skil
 ## **6 Oktober**
 - Praktik Tenses, Present, Past, Future
 - Praktik responsive CSS
+
+## **7 Oktober**
+- Latihan speaking bahasa jepang
+- Latihan Speaking Bahasa Inggris
