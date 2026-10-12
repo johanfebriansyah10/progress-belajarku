@@ -126,3 +126,10 @@ Catatan Harian tentang pengembangan skil
 
 ## **11 Oktober**
 - Praktik Hiragana
+
+
+## **12 Oktober**
+- Belajar Membuat navbar reponsif, semantic
+- Membuat navbar menarik
+- Belajar Present continous
+- Belajar Hiragana
