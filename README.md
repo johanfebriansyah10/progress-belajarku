@@ -115,3 +115,21 @@ Catatan Harian tentang pengembangan skil
 ## **8 Oktober**
 - Lanjut mengerjakan portofolio
 - Latihan CSS advance
+
+## **9 Oktober**
+- Lanjut Mengerjakan Portofolio
+- Latihan CSS Advance
+
+## **10 Oktober**
+- Latihan Bahasa Inggris
+- Menulis Semua hiragana
+
+## **11 Oktober**
+- Praktik Hiragana
+
+
+## **12 Oktober**
+- Belajar Membuat navbar reponsif, semantic
+- Membuat navbar menarik
+- Belajar Present continous
+- Belajar Hiragana
