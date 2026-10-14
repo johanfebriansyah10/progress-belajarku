@@ -133,3 +133,11 @@ Catatan Harian tentang pengembangan skil
 - Membuat navbar menarik
 - Belajar Present continous
 - Belajar Hiragana
+
+## **13 Oktober**
+- Masuk ke present continous
+- Present perfect
+- Past continous
+
+## **14 Oktober**
+- Belajar Javascript
