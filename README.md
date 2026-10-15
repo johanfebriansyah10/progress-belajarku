@@ -141,3 +141,6 @@ Catatan Harian tentang pengembangan skil
 
 ## **14 Oktober**
 - Belajar Javascript
+
+## **15 Oktober**
+- Belajar Asynchronous
