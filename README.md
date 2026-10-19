@@ -144,3 +144,23 @@ Catatan Harian tentang pengembangan skil
 
 ## **15 Oktober**
 - Belajar Asynchronous
+
+## **16 Oktober**
+- Belajar membuat tampilan reponsif
+- Belajar UI/UX Designer
+- Belajar lebih dalam tentang async dan sync
+
+## **17 Oktober**
+- Belajar Bahasa inggris
+- Past continous
+- Present continous
+- Present Perfect
+
+## **18 Oktober**
+- Latihan 6 sentence
+- Belajar menulis semua huruf hiragana dan katakana 15 huruf
+- Belajar menulis kata kata menggunakan hiragana
+
+
+## **19 Oktober**
+- Lanjut mmebuat porfotolio
