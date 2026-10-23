@@ -164,3 +164,14 @@ Catatan Harian tentang pengembangan skil
 
 ## **19 Oktober**
 - Lanjut mmebuat porfotolio
+
+## **20 Oktober**
+- Membuat navbar responsif done
+- Lanjut Membuat hero section
+
+## **21 Oktober**
+- Membuat about, skills, project section
+- Membuat tampilan responsif
+
+## **22 Oktober**
+- Libur
