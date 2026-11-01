@@ -175,3 +175,29 @@ Catatan Harian tentang pengembangan skil
 
 ## **22 Oktober**
 - Libur
+
+## **23 Oktober**
+- Mulai belajar Design figma
+- Latihan Bahasa inggris
+
+## **24 Oktober**
+- Latihan Bahasa Jepang
+- Belajar CSS lebih dalam
+- Memulai Belajar JS lebih dalam
+
+## **25 Oktober**
+- Belajar CSS
+- Belajar JS
+- Latihan Bahasa Inggris
+
+## **26 Oktober**
+- Mengenal DSA
+
+## **27 Oktober**
+- Lanjut belajar DSA
+
+## **1 November**
+- Belajar Typographi
+- Belajar DSA
+- Belajar CSS
+- Belajar Bahasa Inggris
