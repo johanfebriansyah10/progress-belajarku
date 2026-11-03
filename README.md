@@ -201,3 +201,13 @@ Catatan Harian tentang pengembangan skil
 - Belajar DSA
 - Belajar CSS
 - Belajar Bahasa Inggris
+
+## **3 November**
+- Belajar DSA Big O Notation
+
+Notasi O (1) constant, waktu eksekusi akan selalu sama berapapun jumlah datanya 
+Notasi O (log n) logarithmic, setiap langkah memotong jumlah data yang ada menjadi setengahnya
+Notasi O (N) linear, waktu eksekusi berjalan lurus dnegan jumlah data
+Notasi O (n2) quadratic, waktu eksekusi meningkat secara quadrat
+
+- Lanjut belajar UI/UX Color
