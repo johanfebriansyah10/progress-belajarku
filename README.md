@@ -211,3 +211,8 @@ Notasi O (N) linear, waktu eksekusi berjalan lurus dnegan jumlah data
 Notasi O (n2) quadratic, waktu eksekusi meningkat secara quadrat
 
 - Lanjut belajar UI/UX Color
+
+## **4 November**
+- Belajar UI/UX
+Membuat icon menggunakan pen tools, exlplore plugin untuk ilustrasi seperti Illustrations, Blush, Streamline, Explore berbagai plugin untuk icon seperti material icons, Iconify
+Belajar menggunakan contrast pada gambar, pada card agar text bisa terbaca dengan jelas
