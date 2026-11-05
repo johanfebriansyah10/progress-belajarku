@@ -216,3 +216,9 @@ Notasi O (n2) quadratic, waktu eksekusi meningkat secara quadrat
 - Belajar UI/UX
 Membuat icon menggunakan pen tools, exlplore plugin untuk ilustrasi seperti Illustrations, Blush, Streamline, Explore berbagai plugin untuk icon seperti material icons, Iconify
 Belajar menggunakan contrast pada gambar, pada card agar text bisa terbaca dengan jelas
+
+## **5 November**
+- Lanjut Belajar UI/UX
+Membuat component button beserta variation, membuat berbagai button untuk digunakan berbagai project
+- Belajar DSA
+Menyelesaikan permasalahan sederhana untuk mengetes batas pemahaman dasar programming
