@@ -222,3 +222,6 @@ Belajar menggunakan contrast pada gambar, pada card agar text bisa terbaca denga
 Membuat component button beserta variation, membuat berbagai button untuk digunakan berbagai project
 - Belajar DSA
 Menyelesaikan permasalahan sederhana untuk mengetes batas pemahaman dasar programming
+
+## **6 November**
+- Rest da
