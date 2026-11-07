@@ -225,3 +225,6 @@ Menyelesaikan permasalahan sederhana untuk mengetes batas pemahaman dasar progra
 
 ## **6 November**
 - Rest da
+
+## **7 November**
+- Hari ini recall semua pelajaran, Bahasa inggris, bahasa jepang, UI/UX, JS, HTML, CSS
