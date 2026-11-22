@@ -228,3 +228,50 @@ Menyelesaikan permasalahan sederhana untuk mengetes batas pemahaman dasar progra
 
 ## **7 November**
 - Hari ini recall semua pelajaran, Bahasa inggris, bahasa jepang, UI/UX, JS, HTML, CSS
+
+## **22 November 2026**
+- DOMContentLoaded adalah event yang dijalankan ketika browser sudah selesai membaca HTML dan membentuk struktur DOM, masalahnya javascript bisa saja dijalankan sebelum browser selesai membaca HTML maka dari itu DOMCOntentLoaded dibutuhkan ada satu alternatif yang bisa digunakan selain DOMCOntentlOaded yaitu defer
+Kondisi	Perlu DOMContentLoaded?
+Script di <head> tanpa defer	Ya, jika mengakses elemen yang belum tersedia
+Script di akhir <body>	Tidak wajib
+Script menggunakan defer	Tidak wajib
+Script menggunakan DOMContentLoaded	Tidak wajib menambahkan defer hanya untuk tujuan ini
+
+- JSON.parse() dan JSON.stringfy
+fungsinya mengubah data javaScript menjadi JSON string.
+Contoh
+let tasks = [
+    {
+        id: 1,
+        text: "Belajar JavaScript",
+        completed: false
+    }
+];
+
+let result = JSON.stringify(tasks);
+
+console.log(result);
+
+hasilnya
+[
+  {
+    "id": 1,
+    "text": "Belajar JavaScript",
+    "completed": false
+  }
+]
+dan untuk membuktikannya
+console.log(typeof tasks);  // object
+console.log(typeof result); // string
+
+JSON.parse mengubah JSON string menjadi data Javascript Kemabli
+contoh
+let result = '[{"id":1,"text":"Belajar JavaScript","completed":false}]';
+
+let data = JSON.parse(result);
+
+console.log(data);
+
+- getItem(), setItem()
+getItem selalu mengambalikan string menjadi key ditemukan, meskipun data terlihat seperti array sebenarnya masih berupa string kalau ingin menjadikannya array lagi harus menggunakan JSON.parse
+
